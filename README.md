@@ -14,7 +14,7 @@ Está ocorrendo um erro ao compilar duas vezes o programa, alegando que a porta 
 ## Autores
 
 
--[@Lombard1302](https://github.com/Lombard1302) - RA 12524120378;
+-[@Lombard1302](https://github.com/Lombard1302) - RA 12524120378; <br>
 -[@GustavoKadota](https://github.com/GustavoKadota) - RA 12523137424.
 
 
